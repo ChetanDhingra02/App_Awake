@@ -7,6 +7,7 @@ APPS = [
     "https://insurance-fraud-detection-4jqywawedpwrfsdxcwlryt.streamlit.app/",
     "https://mental-health-risk-profile.streamlit.app/",
   "https://nopd-calls-for-service.streamlit.app/", "https://learning-hindi.streamlit.app/",
+    "https://cihi-cancer-readmission.streamlit.app/",
 ]
 
 
