@@ -8,6 +8,7 @@ APPS = [
     "https://mental-health-risk-profile.streamlit.app/",
   "https://nopd-calls-for-service.streamlit.app/", "https://learning-hindi.streamlit.app/",
     "https://cihi-cancer-readmission.streamlit.app/",
+    "https://single-cell-pathway-interpretability.streamlit.app/",
 ]
 
 
